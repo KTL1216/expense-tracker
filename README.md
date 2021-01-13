@@ -3,7 +3,7 @@ A Web Application that allows user to keep track of expenses
 - Programmed with JavaScript and HTML, as well as CSS for styling a pleasant view
 - Implement an interactive User Interface with React.js
 - Store and interact with all the recorded expenses in Firebase Realtime Database
-- Automatically sort all the expenses entries by date.
+- Automatically sort all the expenses entries by date
 
 ![Screenshot (58)](https://user-images.githubusercontent.com/70000660/104411099-cf097d80-5537-11eb-97bb-567e57d1d1bb.png)
 
@@ -15,3 +15,7 @@ The new entry is added to Firebase Realtime Database.
 User can delete any expenses entry and the entry will also be deleted in the database
 ![Screenshot (60)](https://user-images.githubusercontent.com/70000660/104411104-cfa21400-5537-11eb-86c5-cac1ac78bd96.png)
 ![Screenshot (62)](https://user-images.githubusercontent.com/70000660/104411107-d03aaa80-5537-11eb-832a-ff7f563bf424.png)
+
+# Future Plans
+- Allow income tracking and calculate networth
+- Set up user login authentication with React
